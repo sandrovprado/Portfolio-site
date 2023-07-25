@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio Website
 
 This is a responsive web application for my personal portfolio website, built using the React.js framework. The purpose of this project is to showcase my skills, experience, and projects to potential employers and clients.
@@ -55,3 +56,6 @@ This is a responsive web application for my personal portfolio website, built us
 
 5. Configure a custom domain name using AWS Route 53 and point it to the CloudFront distribution.
 
+=======
+# Portfolio-site
+>>>>>>> 0de6c317f8907f78071ab6e89dfa5ca47053d3d0
